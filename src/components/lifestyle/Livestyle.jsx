@@ -27,7 +27,7 @@ const Lifestyle = () => {
           />
         </div>
 
-        {/* Image 2 - Tilted Left */}
+
         <div className="w-64 h-96 overflow-hidden rounded-3xl rotate-[-10deg]">
           <img
             src={images[1]}
